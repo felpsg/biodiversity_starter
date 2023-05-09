@@ -14,11 +14,11 @@ pip install pandas seaborn matplotlib
 
 Este projeto é para uso educacional e demonstra como realizar uma análise de dados usando Python.
 
-![Status de Conservação](Figure_1.png)
+![Status de Conservação](img/Figure_1.png)
 
-![Espécies Ameaçadas](Figure_2.png)
+![Espécies Ameaçadas](img/Figure_2.png)
 
-![Estado de Conservação](Figure_3.png)
+![Estado de Conservação](img/Figure_3.png)
 
-![Top 5 Espécies mais Vistas](Figure_4.png)
+![Top 5 Espécies mais Vistas](img/Figure_4.png)
 
