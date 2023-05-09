@@ -1,7 +1,5 @@
 # Análise de Espécies em Perigo
 
-## Descrição do Projeto
-
 Este projeto tem como objetivo realizar uma análise exploratória dos dados sobre espécies em perigo. Utilizamos Python e bibliotecas como pandas, seaborn e matplotlib para limpar, analisar e visualizar os dados.
 
 ## Começando
