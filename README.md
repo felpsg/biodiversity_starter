@@ -2,8 +2,6 @@
 
 Este projeto tem como objetivo realizar uma análise exploratória dos dados sobre espécies em perigo. Utilizamos Python e bibliotecas como pandas, seaborn e matplotlib para limpar, analisar e visualizar os dados.
 
-## Começando
-
 ### Pré-requisitos
 
 Você precisa ter Python instalado em sua máquina. Além disso, você precisará das bibliotecas pandas, seaborn e matplotlib.
